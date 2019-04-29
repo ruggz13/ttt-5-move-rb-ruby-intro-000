@@ -8,6 +8,4 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index = to_i
-coverted_input = input_to_index(user_input)
-move(converted_input)
 end
